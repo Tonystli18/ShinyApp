@@ -1,0 +1,18 @@
+App Description
+
+This Shiny web application provides functions for user to interact with mtcars dataset to explore 
+the relationship between 3 selected dependent variables (hp. mpg & qsec) and other independent
+variables.
+
+1) There are 3 tabs for the 3 selected dependent variables:
+- Panel "Gross Horsepower": dependent variable "hp", user can pick up one other variables
+as independent variables except qsec.
+- Panel "Miles per Gallon(US)": dependent variable "mpg", user can pick up one other variables
+as independent variables except qsec.
+- Panel "1/4 Mile Time": dependent variable "qsec", user can pick up one other variables
+as independent variables.
+        
+2) On each panel, it shows the plot of selected dependent and independent variables.
+- if the independent variable chosen by user is essentially a numeric variable, it will show
+points plot and user can select dots to generate linear regression line.
+- if the independent variable chosen by user is essentially a factor variable, it will show box plot.

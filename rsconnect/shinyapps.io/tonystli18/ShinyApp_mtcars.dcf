@@ -1,0 +1,13 @@
+name: ShinyApp_mtcars
+title: ShinyApp_mtcars
+username:
+account: tonystli18
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 369132
+bundleId: 1453800
+url: https://tonystli18.shinyapps.io/ShinyApp_mtcars/
+when: 1530171931.421
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: User Manual.Rd
